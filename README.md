@@ -26,6 +26,14 @@ Este modpack está organizado en tres secciones:
   [🔗 Modrinth](https://modrinth.com/mod/towns-and-towers)  
   ➤ *Requiere: Cristel Lib*
 
+- **Better End Cities for BetterEnd**  
+  [🔗 Modrinth](https://modrinth.com/mod/better-end-cities-for-betterend)  
+  ➤ *Sin dependencias*
+
+- **True Ending**  
+  [🔗 Modrinth](https://modrinth.com/datapack/true-ending)  
+  ➤ *Sin dependencias*
+
 ---
 
 ### 🏰 YUNG's (Estructuras y Exploración)
@@ -105,6 +113,23 @@ Este modpack está organizado en tres secciones:
 - **Neruina**  
   [🔗 Modrinth](https://modrinth.com/mod/neruina/)  
   ➤ *Requiere: Fabric API*
+
+- **CrashExplotFixer**  
+  [🔗 Modrinth](https://modrinth.com/mod/crashexploitfixer)  
+  ➤ *Sin dependencias*
+
+- **Chunky**  
+  [🔗 Modrinth](https://modrinth.com/mod/chunky)  
+  ➤ *Requiere: Fabric API*
+
+- **Connectivity**  
+  [🔗 CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity)  
+  ➤ *Sin dependencias*
+
+- **Cupboard**  
+  [🔗 CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard)  
+  ➤ *Sin dependencias*
+
 
 ---
 ## 🔁 Cliente + Servidor
@@ -377,10 +402,6 @@ Este modpack está organizado en tres secciones:
 - **ImmediatelyFast**  
   [🔗 Modrinth](https://modrinth.com/mod/immediatelyfast/)  
   ➤ *Sin dependencias*
-
-- **More Culling**  
-  [🔗 Modrinth](https://modrinth.com/mod/moreculling/)  
-  ➤ *Requiere: Cloth Config API*
 
 - **Entity Culling**  
   [🔗 Modrinth](https://modrinth.com/mod/entityculling/)  
