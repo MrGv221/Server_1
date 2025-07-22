@@ -1,562 +1,101 @@
-
-# 🛠️ Minecraft Modpack
-
-Este modpack está organizado en tres secciones:
-
-- 📌 **Solo Servidor**: Mods que se instalan únicamente en el servidor.
-- 🔁 **Cliente + Servidor**: Mods que deben estar tanto en el cliente como en el servidor.
-- 🖥️ **Solo Cliente**: Mods exclusivos del cliente, no deben instalarse en el servidor.
-
----
-## 📌 Solo en el Servidor
+# 🧠 Guía para Entrar al Servidor de Minecraft 🧱🔥
 
 ---
 
-### 🌍 Generación del Mundo / Estructuras
+## ✅ Paso 1: Instalar **Java 24**
 
-- **Terralith** *(Datapack)*  
-  [🔗 Modrinth](https://modrinth.com/datapack/terralith)  
-  ➤ *Sin dependencias*
-
-- **ChoiceTheorem's Overhauled Village**  
-  [🔗 Modrinth](https://modrinth.com/mod/ct-overhaul-village)  
-  ➤ *Requiere: Lithostitched*
-
-- **Towns and Towers**  
-  [🔗 Modrinth](https://modrinth.com/mod/towns-and-towers)  
-  ➤ *Requiere: Cristel Lib*
-
-- **Better End Cities for BetterEnd**  
-  [🔗 Modrinth](https://modrinth.com/mod/better-end-cities-for-betterend)  
-  ➤ *Sin dependencias*
-
-- **True Ending**  
-  [🔗 Modrinth](https://modrinth.com/datapack/true-ending)  
-  ➤ *Sin dependencias*
+1. Descarga Java 24 desde el siguiente enlace:
+   👉 [Java 24](https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe)
+2. Ejecuta el archivo descargado y sigue el proceso de instalación (Siguiente > Siguiente > Finalizar).
+3. Si tienes una versión de Java anterior instalada, **no pasa nada**, esta la reemplazará.
 
 ---
 
-### 🏰 YUNG's (Estructuras y Exploración)
+## ✅ Paso 2: Instalar **ZeroTier**
 
-- **YUNG's Better Nether Fortress**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-nether-fortresses)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
+1. Descarga ZeroTier desde esta página:
+   👉 [https://www.zerotier.com/download/](https://www.zerotier.com/download/)
+2. Elige tu sistema operativo (Windows, Mac, etc.).
+3. Instala el archivo que se descargue.
+4. En la bandeja de iconos dar click derecho sobre ZeroTier y revisar que esta opciones este activa:
+   - **[✔] Start UI at Login**
 
-- **YUNG's Better Mineshafts**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-mineshafts)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
-- **YUNG's Better Dungeons**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-dungeons)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
-- **YUNG's Better Ocean Monuments**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-ocean-monuments)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
-- **YUNG's Better Jungle Temples**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-jungle-temples)  
-  ➤ *Requiere: Fabric API, Cloth, Config API, YUNG's API*
-
-- **YUNG's Better End Island**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-end-island)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
-- **YUNG's Better Witch Huts**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-witch-huts)  
-  ➤ *Requiere: Fabric API, Clotrh Config API, YUNG's API*
-
-- **YUNG's Better Strongholds**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-strongholds)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
-- **YUNG's Better Desert Temples**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-better-desert-temples)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
-- **YUNG's Bridges**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-bridges)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
-- **YUNG's Extras**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-extras)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
+	![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdqc2h0cmFzYTI2dHVvaTQ4dDBtYzZvMmx3cTVmM2Y2a290aGc1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V0ZapcmosUcO3n4r5T/giphy.gif)
 
 ---
 
-### ⚙️ Rendimiento y Calidad de Vida
+## ✅ Paso 3: Unirse a la red de ZeroTier
 
-- **Clumps**  
-  [🔗 Modrinth](https://modrinth.com/mod/clumps/)  
-  ➤ *Requiere: Fabric API*
-
-- **SleepWarp**  
-  [🔗 Modrinth](https://modrinth.com/mod/sleep-warp)  
-  ➤ *Requiere: Fabric API*
-
-- **Noisium**  
-  [🔗 Modrinth](https://modrinth.com/mod/noisium/)  
-  ➤ *Sin dependencias*
+1. Abre ZeroTier.
+2. Da clic en el botón **"Join Network"**.
+	![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtyMmhzeDZ4dWtiNWxpNng5cjgxd3RpODh4OTIzOXNtcTM1MHQ5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oV1UhY8rA5GI5qwi2Q/giphy.gif)
+3. Copia y pega este código:
+   ```
+   35c192ce9bed3d6f
+   ```
+4. Dale clic en **"Join"**.
+5. Avísame para autorizarte desde el panel de ZeroTier (no se puede hacer solo).
 
 ---
 
-### 🧍 Apariencia / Jugadores
+## ✅ Paso 4: Instalar **PrismLauncher**
 
-- **SkinsRestorer**  
-  [🔗 Modrinth](https://modrinth.com/mod/skinrestorer/)  
-  ➤ *Requiere: Fabric API*
-
----
-
-### 🧪 Utilidades Técnicas / Backend
-
-- **Neruina**  
-  [🔗 Modrinth](https://modrinth.com/mod/neruina/)  
-  ➤ *Requiere: Fabric API*
-
-- **CrashExplotFixer**  
-  [🔗 Modrinth](https://modrinth.com/mod/crashexploitfixer)  
-  ➤ *Sin dependencias*
-
-- **Chunky**  
-  [🔗 Modrinth](https://modrinth.com/mod/chunky)  
-  ➤ *Requiere: Fabric API*
-
-- **Connectivity**  
-  [🔗 CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity)  
-  ➤ *Sin dependencias*
-
-- **Cupboard**  
-  [🔗 CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard)  
-  ➤ *Sin dependencias*
-
-
----
-## 🔁 Cliente + Servidor
+1. Descarga PrismLauncher desde este enlace:
+   👉 [PrismLauncher](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.4/PrismLauncher-Windows-MinGW-w64-Setup-9.4.exe)
+2. Instala el programa como cualquier otro (doble clic > Siguiente > Instalar).
+3. Abre PrismLauncher.
+	**Importante**, Cuándo salga la pantalla de "**Añadir una cuenta de Microsoft**" solo dar click en "Finalizar", no debes añadir ninguna cuenta de Microsoft
+	![](https://i.imgur.com/DrV5Igb.png)
+4. En la ventana principal, ve a la **esquina superior derecha** y haz clic en el **iconito de cuentas**.
+5. Selecciona la opción **"Administrar cuentas"**.
+	![](https://i.imgur.com/UKXFIw1.png)
+6. En la nueva ventana, haz clic en el botón **"Añadir offline"**.
+7. Escribe el nombre de jugador que usarás en el servidor.
+	![](https://i.imgur.com/xNAOHLo.png)
+   - ⚠️ **IMPORTANTE**:
+     - El nombre debe tener **entre 3 y 16 caracteres**.
+     - Solo puedes usar letras (A-Z, sin acentos), números y guiones bajos `_`.
+     - **NO** puedes usar espacios, símbolos, emojis o acentos (como á, é, ñ, etc.).
+     - Ejemplos válidos: `Oscar123`, `ElPro_`, `Zack2025`
+     - Ejemplos inválidos: `Juan Pérez`, `Niñito`, `🔥Player🔥`
+1. Da clic en "OK". Tu cuenta offline ya está lista.
 
 ---
 
-### ⚙️ Rendimiento y Optimización
+## ✅ Paso 5: Instalar **Instancia**
 
-- **Spark**  
-  [🔗 Modrinth](https://modrinth.com/mod/spark/)  
-  ➤ *Sin dependencias*
+1. En nuestro PrismLauncher, iremos hacia la opción que dice "Añadir Instancia"
+	![](https://i.imgur.com/2uLtGuc.png)
+2. En esta pantalla nos dirigiremos a "Importar"
+	![](https://i.imgur.com/lkLTjqK.png)
+3. Aquí, en dónde dice "Archivo local o enlace de descarga directa:" copiaremos y pegaremos lo siguiente:
+   `https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip`
+4. Finalmente dar clic en el botón "OK" y esperaremos a que se instale la Instancia 
+---
 
-- **Lithium**  
-  [🔗 Modrinth](https://modrinth.com/mod/lithium/)  
-  ➤ *Sin dependencias*
+## ✅ Paso 6: Instalar el Pack de Mods en PrismLauncher
 
-- **FerriteCore**  
-  [🔗 Modrinth](https://modrinth.com/mod/ferrite-core/)  
-  ➤ *Sin dependencias*
+1. Es muy importante descargar la última versión del modpack que estará disponible en el canal de Discord del servidor [PacBros Community](https://discord.gg/uPVgyUdcDg), en el canal de [「📣」anuncios](https://discord.gg/EJEw45Pzyg) aquí se pondrá siempre que hay una nueva actualización del modpack, descarga la última versión disponible.
+2. Ahora, en nuestro PrismLauncher, en la instancia que se nos creo (De nombre "Thronos" y con el icono de la abeja), al cual daremos clic derecho y en la opción de "Editar".
+	![](https://i.imgur.com/8O2nW7e.png)
+3. Una vez aquí, nos dirigiremos a "Modrinth" y daremos clic en "Actualizar desde el archivo"
+	![](https://i.imgur.com/0Ku4Y7r.png)
+4. Buscaremos el archivo que descargamos del Discord y le daremos doble click y esperaremos a que se instale por completo hasta que nos salga el siguiente mensaje:
+	![](https://i.imgur.com/AEAAcdD.png)
+5. Una vez instalado, ya puedes simplemente darle a "**Iniciar**" y esperar a que se inicie tu juego, y dentro en el apartado de "Multijugador" ya encontraras el servidor listo para unirse.
+---
 
-- **Modern Fix**  
-  [🔗 Modrinth](https://modrinth.com/mod/modernfix/)  
-  ➤ *Sin dependencias*
+## ⚠️ Notas Finales
 
-- **Memory Leak Fix**  
-  [🔗 Modrinth](https://modrinth.com/mod/memoryleakfix/)  
-  ➤ *Sin dependencias*
-
-- **Starlight**  
-  [🔗 Modrinth](https://modrinth.com/mod/starlight/)  
-  ➤ *Sin dependencias*
-
-- **Concurrent Chunk Management**  
-  [🔗 Modrinth](https://modrinth.com/mod/c2me-fabric/)  
-  ➤ *Sin dependencias*
+- Si algo **NO FUNCIONA**, vuelve a leer el paso con calma. Casi siempre es porque **saltaron algo**.
+- No cambies versiones, no borres cosas, no muevas archivos.
 
 ---
 
-### ⚒️ Técnicos / Configuración
+## 💬 ¿Dudas?
 
-- **Your Options Shall Be Respected (YOSBR)**  
-  [🔗 Modrinth](https://modrinth.com/mod/yosbr/)  
-  ➤ *Requiere: Fabric API*
-
-- **Debugify**  
-  [🔗 Modrinth](https://modrinth.com/mod/debugify/)  
-  ➤ *Requiere: Fabric API, YetAnotherConfigLib (YACL)*
-
-- **Forge Config API Port**  
-  [🔗 Modrinth](https://modrinth.com/mod/forge-config-api-port/)  
-  ➤ *Requiere: Fabric API*
-
-- **YUNG's API**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-api)  
-  ➤ *Requiere: Fabric API*
-
-- **Attribute Fix**  
-  [🔗 Modrinth](https://modrinth.com/mod/attributefix/)  
-  ➤ *Requiere: Fabric API, Bookshelf, Prickle*
+Mándame captura de pantalla con el error. Si no hay error visible y solo dices "no sirve", te voy a ignorar 🧍.
 
 ---
 
-### 🌍 Generación del Mundo / Biomas / Estructuras
-
-- **Biomes O' Plenty**  
-  [🔗 Modrinth](https://modrinth.com/mod/biomes-o-plenty/)  
-  ➤ *Requiere: Fabric API, GlitchCore, TerraBlender*
-
-- **Explorify**  
-  [🔗 Modrinth](https://modrinth.com/datapack/explorify/)  
-  ➤ *Sin dependencias*
-
-- **Dangeons and Taverns**  
-  [🔗 Modrinth](https://modrinth.com/datapack/dungeons-and-taverns/)  
-  ➤ *Sin dependencias*
-
-- **Better Nether**  
-  [🔗 Modrinth](https://modrinth.com/mod/betternether/)  
-  ➤ *Requiere: Fabric API, BCLib, World Weaver*
-
-- **Better End**  
-  [🔗 Modrinth](https://modrinth.com/mod/betterend/)  
-  ➤ *Requiere: Fabric API, BCLib, World Weaver*
-
-- **Wilder Wild**  
-  [🔗 Modrinth](https://modrinth.com/mod/wilder-wild/)  
-  ➤ *Requiere: Fabric API, FrozenLIB*
-
-- **YUNG's Cave Biomes**  
-  [🔗 Modrinth](https://modrinth.com/mod/yungs-cave-biomes)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API*
-
----
-
-### 🧪 Aventuras / Progresión / Dimensiones
-
-- **The Twilight Forest**  
-  [🔗 Modrinth](https://modrinth.com/mod/the-twilight-forest-unofficial/)  
-  ➤ *Requiere: Fabric API*
-
-- **The Aether**  
-  [🔗 Modrinth](https://modrinth.com/mod/aether)  
-  ➤ *Requiere: owo-lib, Accessories, Comulus*
-
-- **AdventureZ**  
-  [🔗 Modrinth](https://modrinth.com/mod/adventurez)  
-  ➤ *Requiere: Fabric API, Cloth Config API*
-
-    - **VoidZ**  
-      [🔗 Modrinth](https://modrinth.com/mod/voidz)  
-      ➤ *Requiere: Fabric API, Clorh Config API, AdventureZ*
-
-- **Bosses of Mass Destruction**  
-  [🔗 Modrinth](https://modrinth.com/mod/bosses-of-mass-destruction)  
-  ➤ *Requiere: Fabric API, Fabric Lenguage Kotlin, Cloth Config API, Cardinal Components, Geckolib 3*
-
----
-
-### ⚙️ Create y Expansiones
-
-- **Create Fabric**  
-  [🔗 Modrinth](https://modrinth.com/mod/create-fabric/)  
-  ➤ *Requiere: Fabric API*
-
-    - **Create: Steam 'n' Rails**  
-      [🔗 Modrinth](https://modrinth.com/mod/create-steam-n-rails)  
-      ➤ *Requiere: Fabric API, Create Fabric*
-
-    - **Create: Copycats+**  
-      [🔗 Modrinth](https://modrinth.com/mod/copycats)  
-      ➤ *Requiere: Fabric API, Create Fabric*
-
-    - **Create: Structures**  
-      [🔗 Modrinth](https://modrinth.com/datapack/create-structures)  
-      ➤ *Requiere: Create Fabric*
-
-    - **Create Crafts & Additions**  
-      [🔗 Modrinth](https://modrinth.com/mod/createaddition)  
-      ➤ *Requiere: Create Fabric*
-
----
-
-### 🔧 Utilidad / Calidad de Vida
-
-- **Traveler’s Backpack**  
-  [🔗 Modrinth](https://modrinth.com/mod/travelersbackpack/)  
-  ➤ *Requiere: Fabric API, Cloth Config API, Cardinal Components API*
-
-- **Farmer's Delight Refabricated**  
-  [🔗 Modrinth](https://modrinth.com/mod/farmers-delight-refabricated/)  
-  ➤ *Requiere: Fabric API*
-
-- **Comforts**  
-  [🔗 Modrinth](https://modrinth.com/mod/comforts/)  
-  ➤ *Requiere: Fabric API*
-
-- **Carry On**  
-  [🔗 Modrinth](https://modrinth.com/mod/carry-on/)  
-  ➤ *Sin dependencias*
-
-- **You're in Grave Danger**  
-  [🔗 Modrinth](https://modrinth.com/mod/yigd/)  
-  ➤ *Requiere: Fabric API, Cloth Config API*
-
----
-
-### 🧱 Decoración y Construcción
-
-- **Supplementaries**  
-  [🔗 Modrinth](https://modrinth.com/mod/supplementaries/)  
-  ➤ *Requiere: Fabric API, Moonlight Lib*
-
-- **Paladin's Furniture Mod**  
-  [🔗 Modrinth](https://modrinth.com/mod/paladins-furniture/)  
-  ➤ *Requiere: Fabric API*
-
-- **Handcrafted**  
-  [🔗 Modrinth](https://modrinth.com/mod/handcrafted)  
-  ➤ *Requiere: Fabric API, Resourceful LIB*
-
-- **Chipped**  
-  [🔗 Modrinth](https://modrinth.com/mod/chipped)  
-  ➤ *Requiere: Fabric API, Resourceful Lib, Athena*
-
-- **Amendments**  
-  [🔗 Modrinth](https://modrinth.com/mod/amendments/)  
-  ➤ *Requiere: Fabric API, Moonlight LIB*
-
----
-
-### 🐾 Entidades y Vida Salvaje
-
-- **Friends&Foes**  
-  [🔗 Modrinth](https://modrinth.com/mod/friends-and-foes/)  
-  ➤ *Requiere: Fabric API, YetAnotherConfigLib (YACL), Resourceful LIB*
-
-- **Naturalist**  
-  [🔗 Modrinth](https://modrinth.com/mod/naturalist/)  
-  ➤ *Requiere: GecjoLib*
-
-- **Living Things**  
-  [🔗 Modrinth](https://modrinth.com/mod/living-things)  
-  ➤ *Requiere: Fabric API*
-
-- **Jaiz Mobs**  
-  [🔗 Modrinth](https://modrinth.com/mod/jaiz-mobs)  
-  ➤ *Sin dependencias*
-
-- **Ribbits**  
-  [🔗 Modrinth](https://modrinth.com/mod/ribbits)  
-  ➤ *Requiere: Fabric API, Cloth Config API, YUNG's API, Geckolib*
-
----
-
-### 🧝 Magia y Tecnología Alternativa
-
-- **Botania**  
-  [🔗 Modrinth](https://modrinth.com/mod/botania/)  
-  ➤ *Requiere: Fabric API, Trinkets, Patchouli*
-
-- **Hephaestus**  
-  [🔗 Modrinth](https://modrinth.com/mod/hephaestus/)  
-  ➤ *Sin dependencias*
-
-- **Ad Astra**  
-  [🔗 Modrinth](https://modrinth.com/mod/ad-astra)  
-  ➤ *Requiere: Fabric API, Resourceful Config, Resource Lib*
-
----
-
-### 🎭 Estética y Expresividad
-
-- **Emotecraft**  
-  [🔗 Modrinth](https://modrinth.com/plugin/emotecraft)  
-  ➤ *Requiere: Fabric API*
-
-- **Tempad**  
-  [🔗 Modrinth](https://modrinth.com/mod/tempad)  
-  ➤ *Requiere: Fabric API, Resourceful Config, Resourceful Lib*
-
----
----
-
-## 🖥️ Solo Cliente
-
----
-
-### 🚀 Rendimiento y Optimización
-
-- **Sodium**  
-  [🔗 Modrinth](https://modrinth.com/mod/sodium/)  
-  ➤ *Sin dependencias*
-
-- **Indium**  
-  [🔗 Modrinth](https://modrinth.com/mod/indium/)  
-  ➤ *Requiere: Sodium*
-
-- **Reese's Sodium Options**  
-  [🔗 Modrinth](https://modrinth.com/mod/reeses-sodium-options/)  
-  ➤ *Requiere: Sodium*
-
-- **Sodium Extra**  
-  [🔗 Modrinth](https://modrinth.com/mod/sodium-extra/)  
-  ➤ *Requiere: Sodium*
-
-- **Dynamic FPS**  
-  [🔗 Modrinth](https://modrinth.com/mod/dynamic-fps/)  
-  ➤ *Requiere: Fabric API*
-
-- **ImmediatelyFast**  
-  [🔗 Modrinth](https://modrinth.com/mod/immediatelyfast/)  
-  ➤ *Sin dependencias*
-
-- **Entity Culling**  
-  [🔗 Modrinth](https://modrinth.com/mod/entityculling/)  
-  ➤ *Requiere: Fabric API*
-
-- **Cull Leaves**  
-  [🔗 Modrinth](https://modrinth.com/mod/cull-leaves/)  
-  ➤ *Requiere: Fabric API*
-
-- **FastQuit**  
-  [🔗 Modrinth](https://modrinth.com/mod/fastquit/)  
-  ➤ *Requiere: Fabric API, Cloth Config API*
-
-- **Bad Optimization**  
-  [🔗 Modrinth](https://modrinth.com/mod/badoptimizations/)  
-  ➤ *Sin dependencias*
-
-- **Seamless**  
-  [🔗 Modrinth](https://modrinth.com/mod/seamless/)  
-  ➤ *Requiere: Architectury API*
-
----
-
-### 🎨 Mejora Visual y Animaciones
-
-- **Continuity**  
-  [🔗 Modrinth](https://modrinth.com/mod/continuity/)  
-  ➤ *Requiere: Fabric API*
-
-- **Tiny Items Animation**  
-  [🔗 Modrinth](https://modrinth.com/mod/tiny-item-animations/)  
-  ➤ *Sin dependencias*
-
-- **Not Enough Animations**  
-  [🔗 Modrinth](https://modrinth.com/mod/not-enough-animations/)  
-  ➤ *Requiere: Fabric API*
-
-- **Animatica**  
-  [🔗 Modrinth](https://modrinth.com/mod/animatica/)  
-  ➤ *Requiere: Fabric API*
-
-- **ETF (Entity Texture Features)**  
-  [🔗 Modrinth](https://modrinth.com/mod/entitytexturefeatures/)  
-  ➤ *Sin dependencias*
-
-- **EMF (Entity Model Features)**  
-  [🔗 Modrinth](https://modrinth.com/mod/entity-model-features/)  
-  ➤ *Requiere: ETF*
-
-- **Model Gap Fix**  
-  [🔗 Modrinth](https://modrinth.com/mod/modelfix/)  
-  ➤ *Requiere: Fabric API*
-
-- **Capes**  
-  [🔗 Modrinth](https://modrinth.com/mod/capes/)  
-  ➤ *Requiere: Fabric API, Fabric Language Kotlin*
-
-- **LambDynamicLights**  
-  [🔗 Modrinth](https://modrinth.com/mod/lambdynamiclights/)  
-  ➤ *Requiere: Fabric API*
-
-- **Polytone**  
-  [🔗 Modrinth](https://modrinth.com/mod/polytone/)  
-  ➤ *Requiere: Fabric API*
-
-- **3D Skins Layer**  
-  [🔗 Modrinth](https://modrinth.com/mod/3dskinlayers/)  
-  ➤ *Requiere: Fabric API*
-
----
-
-### 🗺️ Minimapas y HUD Informativo
-
-- **Xaero's Minimap**  
-  [🔗 Modrinth](https://modrinth.com/mod/xaeros-minimap/)  
-  ➤ *Requiere: Fabric API*
-
-- **Xaero's World Map**  
-  [🔗 Modrinth](https://modrinth.com/mod/xaeros-world-map/)  
-  ➤ *Requiere: Fabric API*
-
-- **BetterF3**  
-  [🔗 Modrinth](https://modrinth.com/mod/betterf3/)  
-  ➤ *Requiere: Cloth Config API*
-
----
-
-### 🧰 Calidad de Vida y UI
-
-- **Mouse Tweaks**  
-  [🔗 Modrinth](https://modrinth.com/mod/mouse-tweaks/)  
-  ➤ *Requiere: Fabric API*
-
-- **Zoomify**  
-  [🔗 Modrinth](https://modrinth.com/mod/zoomify)  
-  ➤ *Requiere: Fabric API, Fabric Language Kotlin, YetAnotherConfigLib (YACL)*
-
-- **Better Statistics Screen**  
-  [🔗 Modrinth](https://modrinth.com/mod/better-stats/)  
-  ➤ *Requiere: Fabric API, TCDCommons API*
-
-- **Better Advancements**  
-  [🔗 Modrinth](https://modrinth.com/mod/better-advancements/)  
-  ➤ *Sin dependencias*
-
-- **JEI (Just Enough Items)**  
-  [🔗 Modrinth](https://modrinth.com/mod/jei)  
-  ➤ *Requiere: Fabric API, Cloth Config API, Architectury API*
-
-- **Mod Menu**  
-  [🔗 Modrinth](https://modrinth.com/mod/modmenu/)  
-  ➤ *Requiere: Fabric API, Text Placeholder API*
-
-- **Inventory Profiles Next**  
-  [🔗 Modrinth](https://modrinth.com/mod/inventory-profiles-next/)  
-  ➤ *Requiere: Fabric API, Fabric Language Kotlin, LlbIPN*
-
-- **Controlling**  
-  [🔗 Modrinth](https://modrinth.com/mod/controlling/)  
-  ➤ *Requiere: Fabric API, Searchables*
-
-- **OptiGUI**  
-  [🔗 Modrinth](https://modrinth.com/mod/optigui/)  
-  ➤ *Requiere: Fabric API, Fabric Language Kotlin*
-
-- **Language Reload**  
-  [🔗 Modrinth](https://modrinth.com/mod/language-reload/)  
-  ➤ *Requiere: Fabric API*
-
-- **Remove Reloading Screen (RRLS)**  
-  [🔗 Modrinth](https://modrinth.com/mod/rrls/)  
-  ➤ *Requiere: Forge Config API Port*
-
-- **Smooth Scrolling**  
-  [🔗 Modrinth](https://modrinth.com/mod/smooth-scroll/)  
-  ➤ *Sin dependencias*
-
-- **Chat Heads**  
-  [🔗 Modrinth](https://modrinth.com/mod/chat-heads/)  
-  ➤ *Requiere: Cloth Config API*
-
-- **Legendary Tooltips**  
-  [🔗 Modrinth](https://modrinth.com/mod/legendary-tooltips/)  
-  ➤ *Requiere: Fabric API, Prism, Iceberg*
-
-- **Sounds**  
-  [🔗 Modrinth](https://modrinth.com/mod/sound/)  
-  ➤ *Requiere: Fabric API, M.R.U.*
-
----
-
-### 🧩 Otros / Utilidades
-
-- **Bobby**  
-  [🔗 Modrinth](https://modrinth.com/mod/bobby/)  
-  ➤ *Sin dependencias*
-
----
+Si quieres consultar la lista de mods da clic [aquí](https://github.com/MrGv221/Thronos/blob/main/Mods%20Server.md)
