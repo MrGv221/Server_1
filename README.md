@@ -28,14 +28,15 @@
 
 1. Abre ZeroTier.
 2. Da clic en el botón **"Join Network"**.
+
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtyMmhzeDZ4dWtiNWxpNng5cjgxd3RpODh4OTIzOXNtcTM1MHQ5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oV1UhY8rA5GI5qwi2Q/giphy.gif)
 
-4. Copia y pega este código:
+3. Copia y pega este código:
    ```
    35c192ce9bed3d6f
    ```
-5. Dale clic en **"Join"**.
-6. Avísame para autorizarte desde el panel de ZeroTier (no se puede hacer solo).
+4. Dale clic en **"Join"**.
+5. Avísame para autorizarte desde el panel de ZeroTier (no se puede hacer solo).
 
 ---
 
@@ -44,18 +45,20 @@
 1. Descarga PrismLauncher desde este enlace:
    👉 [PrismLauncher](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.4/PrismLauncher-Windows-MinGW-w64-Setup-9.4.exe)
    
-3. Instala el programa como cualquier otro (doble clic > Siguiente > Instalar).
-4. Abre PrismLauncher.
+2. Instala el programa como cualquier otro (doble clic > Siguiente > Instalar).
+3. Abre PrismLauncher.
 	**Importante**, Cuándo salga la pantalla de "**Añadir una cuenta de Microsoft**" solo dar click en "Finalizar", no debes añadir ninguna cuenta de Microsoft
 
 ![](https://i.imgur.com/DrV5Igb.png)
 
-6. En la ventana principal, ve a la **esquina superior derecha** y haz clic en el **iconito de cuentas**.
-7. Selecciona la opción **"Administrar cuentas"**.
+4. En la ventana principal, ve a la **esquina superior derecha** y haz clic en el **iconito de cuentas**.
+5. Selecciona la opción **"Administrar cuentas"**.
+
 ![](https://i.imgur.com/UKXFIw1.png)
 
-9. En la nueva ventana, haz clic en el botón **"Añadir offline"**.
-10. Escribe el nombre de jugador que usarás en el servidor.
+6. En la nueva ventana, haz clic en el botón **"Añadir offline"**.
+7. Escribe el nombre de jugador que usarás en el servidor.
+
 ![](https://i.imgur.com/xNAOHLo.png)
 
    - ⚠️ **IMPORTANTE**:
@@ -64,36 +67,41 @@
      - **NO** puedes usar espacios, símbolos, emojis o acentos (como á, é, ñ, etc.).
      - Ejemplos válidos: `Oscar123`, `ElPro_`, `Zack2025`
      - Ejemplos inválidos: `Juan Pérez`, `Niñito`, `🔥Player🔥`
-1. Da clic en "OK". Tu cuenta offline ya está lista.
+8. Da clic en "OK". Tu cuenta offline ya está lista.
 
 ---
 
 ## ✅ Paso 5: Instalar **Instancia**
 
 1. En nuestro PrismLauncher, iremos hacia la opción que dice "Añadir Instancia"
+
 ![](https://i.imgur.com/2uLtGuc.png)
 
-3. En esta pantalla nos dirigiremos a "Importar"
+2. En esta pantalla nos dirigiremos a "Importar"
+
 ![](https://i.imgur.com/lkLTjqK.png)
 
-5. Aquí, en dónde dice "Archivo local o enlace de descarga directa:" copiaremos y pegaremos lo siguiente:
+3. Aquí, en dónde dice "Archivo local o enlace de descarga directa:" copiaremos y pegaremos lo siguiente:
    `https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip`
-6. Finalmente dar clic en el botón "OK" y esperaremos a que se instale la Instancia 
+4. Finalmente dar clic en el botón "OK" y esperaremos a que se instale la Instancia 
 ---
 
 ## ✅ Paso 6: Instalar el Pack de Mods en PrismLauncher
 
 1. Es muy importante descargar la última versión del modpack que estará disponible en el canal de Discord del servidor [PacBros Community](https://discord.gg/uPVgyUdcDg), en el canal de [「📣」anuncios](https://discord.gg/EJEw45Pzyg) aquí se pondrá siempre que hay una nueva actualización del modpack, descarga la última versión disponible.
 2. Ahora, en nuestro PrismLauncher, en la instancia que se nos creo (De nombre "Thronos" y con el icono de la abeja), al cual daremos clic derecho y en la opción de "Editar".
+
 ![](https://i.imgur.com/8O2nW7e.png)
 
-4. Una vez aquí, nos dirigiremos a "Modrinth" y daremos clic en "Actualizar desde el archivo"
+3. Una vez aquí, nos dirigiremos a "Modrinth" y daremos clic en "Actualizar desde el archivo"
+
 ![](https://i.imgur.com/0Ku4Y7r.png)
 
-6. Buscaremos el archivo que descargamos del Discord y le daremos doble click y esperaremos a que se instale por completo hasta que nos salga el siguiente mensaje:
+4. Buscaremos el archivo que descargamos del Discord y le daremos doble click y esperaremos a que se instale por completo hasta que nos salga el siguiente mensaje:
+
 ![](https://i.imgur.com/AEAAcdD.png)
 
-8. Una vez instalado, ya puedes simplemente darle a "**Iniciar**" y esperar a que se inicie tu juego, y dentro en el apartado de "Multijugador" ya encontraras el servidor listo para unirse.
+5. Una vez instalado, ya puedes simplemente darle a "**Iniciar**" y esperar a que se inicie tu juego, y dentro en el apartado de "Multijugador" ya encontraras el servidor listo para unirse.
 ---
 
 ## ⚠️ Notas Finales
