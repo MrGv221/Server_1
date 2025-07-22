@@ -83,9 +83,11 @@
 ![](https://i.imgur.com/lkLTjqK.png)
 
 3. En el campo que dice **"Archivo local o enlace de descarga directa"**, copia y pega este enlace:
-   ```https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip```
+```
+https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip
+```
    
-5. Haz clic en **"OK"** y espera a que se complete la instalación.
+4. Haz clic en **"OK"** y espera a que se complete la instalación.
 ---
 
 ## ✅ Paso 6: Instalar el Pack de Mods en PrismLauncher
