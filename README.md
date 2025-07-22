@@ -36,7 +36,7 @@
    35c192ce9bed3d6f
    ```
 4. Dale clic en **"Join"**.
-5. Avísame para autorizarte desde el panel de ZeroTier (no se puede hacer solo).
+5. Avísame para autorizarte desde el panel de ZeroTier (no se puede hacer solo). _Escríbeme por Discord o WhatsApp para autorizar tu entrada a la red._
 
 ---
 
@@ -46,8 +46,9 @@
    👉 [PrismLauncher](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.4/PrismLauncher-Windows-MinGW-w64-Setup-9.4.exe)
    
 2. Instala el programa como cualquier otro (doble clic > Siguiente > Instalar).
-3. Abre PrismLauncher.
-	**Importante**, Cuándo salga la pantalla de "**Añadir una cuenta de Microsoft**" solo dar click en "Finalizar", no debes añadir ninguna cuenta de Microsoft
+3. Al abrir PrismLauncher por primera vez, aparecerá una ventana que dice "**Añadir una cuenta de Microsoft**".  
+   - Solo haz clic en **"Finalizar"**.  
+   - **No añadas ninguna cuenta**.
 
 ![](https://i.imgur.com/DrV5Igb.png)
 
@@ -73,35 +74,40 @@
 
 ## ✅ Paso 5: Instalar **Instancia**
 
-1. En nuestro PrismLauncher, iremos hacia la opción que dice "Añadir Instancia"
+1. En PrismLauncher, haz clic en **"Añadir Instancia"**.
 
 ![](https://i.imgur.com/2uLtGuc.png)
 
-2. En esta pantalla nos dirigiremos a "Importar"
+2. Selecciona la pestaña **"Importar"**.
 
 ![](https://i.imgur.com/lkLTjqK.png)
 
-3. Aquí, en dónde dice "Archivo local o enlace de descarga directa:" copiaremos y pegaremos lo siguiente:
-   `https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip`
-4. Finalmente dar clic en el botón "OK" y esperaremos a que se instale la Instancia 
+3. En el campo que dice **"Archivo local o enlace de descarga directa"**, copia y pega este enlace:
+   ```https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip```
+   
+5. Haz clic en **"OK"** y espera a que se complete la instalación.
 ---
 
 ## ✅ Paso 6: Instalar el Pack de Mods en PrismLauncher
 
-1. Es muy importante descargar la última versión del modpack que estará disponible en el canal de Discord del servidor [PacBros Community](https://discord.gg/uPVgyUdcDg), en el canal de [「📣」anuncios](https://discord.gg/EJEw45Pzyg) aquí se pondrá siempre que hay una nueva actualización del modpack, descarga la última versión disponible.
-2. Ahora, en nuestro PrismLauncher, en la instancia que se nos creo (De nombre "Thronos" y con el icono de la abeja), al cual daremos clic derecho y en la opción de "Editar".
+1. Descarga la última versión del modpack desde nuestro canal de Discord [「📣」anuncios](https://discord.gg/EJEw45Pzyg) en [PacBros Community](https://discord.gg/uPVgyUdcDg).
+2. En PrismLauncher, busca la instancia llamada **"Thronos"** (ícono de abeja).  
+   Haz clic derecho sobre ella y selecciona **"Editar"**.
 
 ![](https://i.imgur.com/8O2nW7e.png)
 
-3. Una vez aquí, nos dirigiremos a "Modrinth" y daremos clic en "Actualizar desde el archivo"
+3. Dentro del editor, ve a la pestaña **"Modrinth"** y haz clic en **"Actualizar desde el archivo"**.
 
 ![](https://i.imgur.com/0Ku4Y7r.png)
 
-4. Buscaremos el archivo que descargamos del Discord y le daremos doble click y esperaremos a que se instale por completo hasta que nos salga el siguiente mensaje:
+4. Selecciona el archivo que descargaste del Discord.  
+   Espera a que se instale completamente hasta que aparezca el mensaje de confirmación.
 
 ![](https://i.imgur.com/AEAAcdD.png)
 
-5. Una vez instalado, ya puedes simplemente darle a "**Iniciar**" y esperar a que se inicie tu juego, y dentro en el apartado de "Multijugador" ya encontraras el servidor listo para unirse.
+5. Una vez instalado, haz clic en **"Iniciar"** y entra al juego.  
+   En el menú de **Multijugador**, encontrarás el servidor listo para unirte.
+   
 ---
 
 ## ⚠️ Notas Finales
