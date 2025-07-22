@@ -92,7 +92,7 @@ https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip
 
 ## ✅ Paso 6: Instalar el Pack de Mods en PrismLauncher
 
-1. Descarga la última versión del modpack desde nuestro canal de Discord [「📣」anuncios](https://discord.gg/EJEw45Pzyg) en [PacBros Community](https://discord.gg/uPVgyUdcDg).
+1. Descarga la última versión del modpack desde nuestro canal de Discord [PacBros Community](https://discord.gg/uPVgyUdcDg) en [「📣」anuncios](https://discord.gg/EJEw45Pzyg).
 2. En PrismLauncher, busca la instancia llamada **"Thronos"** (ícono de abeja).  
    Haz clic derecho sobre ella y selecciona **"Editar"**.
 
