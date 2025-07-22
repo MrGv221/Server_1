@@ -47,6 +47,7 @@
 3. Instala el programa como cualquier otro (doble clic > Siguiente > Instalar).
 4. Abre PrismLauncher.
 	**Importante**, Cuándo salga la pantalla de "**Añadir una cuenta de Microsoft**" solo dar click en "Finalizar", no debes añadir ninguna cuenta de Microsoft
+
 ![](https://i.imgur.com/DrV5Igb.png)
 
 6. En la ventana principal, ve a la **esquina superior derecha** y haz clic en el **iconito de cuentas**.
