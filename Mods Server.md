@@ -318,6 +318,14 @@ Este modpack está organizado en tres secciones:
   [🔗 Modrinth](https://modrinth.com/mod/easy-anvils)  
   ➤ *Requiere: Fabric API, Forge Config API Port, Puzzles LIB*
 
+- **JEI (Just Enough Items)**  
+  [🔗 Modrinth](https://modrinth.com/mod/jei)  
+  ➤ *Sin dependencias*
+
+- **Mod Menu**  
+  [🔗 Modrinth](https://modrinth.com/mod/modmenu/)  
+  ➤ *Requiere: Fabric API, Text Placeholder API*
+
 ---
 
 ### 🧱 Decoración y Construcción
@@ -526,14 +534,6 @@ Este modpack está organizado en tres secciones:
 - **Better Advancements**  
   [🔗 Modrinth](https://modrinth.com/mod/better-advancements/)  
   ➤ *Sin dependencias*
-
-- **JEI (Just Enough Items)**  
-  [🔗 Modrinth](https://modrinth.com/mod/jei)  
-  ➤ *Requiere: Fabric API, Cloth Config API, Architectury API*
-
-- **Mod Menu**  
-  [🔗 Modrinth](https://modrinth.com/mod/modmenu/)  
-  ➤ *Requiere: Fabric API, Text Placeholder API*
 
 - **Inventory Profiles Next**  
   [🔗 Modrinth](https://modrinth.com/mod/inventory-profiles-next/)  
