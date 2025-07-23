@@ -36,7 +36,9 @@
    35c192ce9bed3d6f
    ```
 4. Dale clic en **"Join"**.
-5. Avísame para autorizarte desde el panel de ZeroTier (no se puede hacer solo). _Escríbeme por Discord o WhatsApp para autorizar tu entrada a la red._
+5. Avísame para autorizarte desde el panel de ZeroTier (no se puede hacer solo).
+   _Escríbeme por Discord o WhatsApp para autorizar tu entrada a la red._
+   _Puedes seguir con los pasos aún si no te e autorizado_
 
 ---
 
