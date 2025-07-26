@@ -98,6 +98,10 @@ Este modpack está organizado en tres secciones:
   [🔗 Modrinth](https://modrinth.com/mod/noisium/)  
   ➤ *Sin dependencias*
 
+- **FasterRandom**  ❗ _Nuevo_
+  [🔗 Modrinth](https://modrinth.com/mod/faster-random)  
+  ➤ *Sin dependencias*
+
 ---
 
 ### 🧍 Apariencia / Jugadores
@@ -158,11 +162,11 @@ Este modpack está organizado en tres secciones:
   [🔗 Modrinth](https://modrinth.com/mod/memoryleakfix/)  
   ➤ *Sin dependencias*
 
-- **Starlight**  
+- **Starlight**  ❌ _Se elimino en la última actualización_
   [🔗 Modrinth](https://modrinth.com/mod/starlight/)  
   ➤ *Sin dependencias*
 
-- **Concurrent Chunk Management**  
+- **Concurrent Chunk Management**  ❌ _Se elimino en la última actualización_
   [🔗 Modrinth](https://modrinth.com/mod/c2me-fabric/)  
   ➤ *Sin dependencias*
 
@@ -579,8 +583,12 @@ Este modpack está organizado en tres secciones:
 
 ### 🧩 Otros / Utilidades
 
-- **Bobby**  
+- **Bobby**  ❌ _Se elimino en la última actualización_
   [🔗 Modrinth](https://modrinth.com/mod/bobby/)  
+  ➤ *Sin dependencias*
+
+- **Distant Horizons** ❗ _Nuevo_   
+  [🔗 Modrinth](https://modrinth.com/mod/hold-my-items)  
   ➤ *Sin dependencias*
 
 ---
