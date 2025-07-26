@@ -463,6 +463,10 @@ Este modpack está organizado en tres secciones:
   [🔗 Modrinth](https://modrinth.com/mod/seamless/)  
   ➤ *Requiere: Architectury API*
 
+- **Enhanced Block Entities (EBE)**  ❗ _Nuevo_   
+  [🔗 Modrinth](https://modrinth.com/mod/ebe)  
+  ➤ *Requiere: Fabric API*
+
 ---
 
 ### 🎨 Mejora Visual y Animaciones
