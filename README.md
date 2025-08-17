@@ -6,6 +6,9 @@
 
 1. Descarga Java 24 desde el siguiente enlace:
    👉 [Java 24](https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.exe)
+
+   _En caso de NO ser usuario de Windows ir al siguiente link y buscar la descarga correspondiente a tu sistema operativo:: 👉 [Java24](https://www.oracle.com/java/technologies/downloads/#java24)_
+
 2. Ejecuta el archivo descargado y sigue el proceso de instalación (Siguiente > Siguiente > Finalizar).
 3. Si tienes una versión de Java anterior instalada, **no pasa nada**, esta la reemplazará.
 
@@ -46,11 +49,13 @@
 
 1. Descarga PrismLauncher desde este enlace:
    👉 [PrismLauncher](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/9.4/PrismLauncher-Windows-MinGW-w64-Setup-9.4.exe)
+
+   _En caso de NO ser usuario de Windows ir al siguiente link y buscar la descarga correspondiente a tu sistema operativo: 👉 [PrismLauncher](https://github.com/Diegiwg/PrismLauncher-Cracked/releases)_
    
 2. Instala el programa como cualquier otro (doble clic > Siguiente > Instalar).
 3. Al abrir PrismLauncher por primera vez, aparecerá una ventana que dice "**Añadir una cuenta de Microsoft**".  
    - Solo haz clic en **"Finalizar"**.  
-   - **No añadas ninguna cuenta**.
+   - **No añadas ninguna cuenta** _(A menos que tengas una cuenta **Premium**, en dado caso, saltar hasta el ✅ Paso 5)_.
 
 ![](https://i.imgur.com/DrV5Igb.png)
 
