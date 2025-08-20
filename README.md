@@ -91,7 +91,7 @@
 
 3. En el campo que dice **"Archivo local o enlace de descarga directa"**, copia y pega este enlace:
 ```
-https://github.com/MrGv221/Thronos/raw/refs/heads/main/Modpack/Thronos.zip
+https://github.com/MrGv221/Thronos_ModPack/raw/refs/heads/main/Thronos.zip
 ```
    
 4. Haz clic en **"OK"** y espera a que se complete la instalación.
